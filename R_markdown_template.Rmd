@@ -1,0 +1,21 @@
+---
+title: "Nittany Motorsports Data Acquisition Project"
+author: "Insert your name"
+date: "date here"
+output: pdf_document
+#output: html_document uncomment this line if you want to export as an html instead
+---
+
+### {Insert analysis title}
+
+##### Use five hashtags for a header
+
+Just type regularly for describing code/analysis
+
+To start an R code chunk:
+
+```{r}
+
+#Insert your code here
+
+```
